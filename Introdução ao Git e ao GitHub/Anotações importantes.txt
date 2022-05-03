@@ -16,6 +16,8 @@ Funcionalidade de alguns comandos essenciais no Git.
 
 ► git commit -m: Utilizado para adicionar um comentário ao commit exemplo: git commit "Receita de Bolo".
 
-► git push origin main .: Esse comando envia todos os commits para a nuvem no Git.
+► git push origin main: Esse comando envia todos os commits para a nuvem no Git.
 
-► git push -u origin main .: Esse comando envia todos os commits para a nuvem no Git e atualiza o arquivo modificado localmente.
+► git push -u origin main: Esse comando envia todos os commits para a nuvem no Git e atualiza o arquivo modificado localmente.
+
+► Ctrl+L: Esse atalho limpa o terminal dos comandos anteriormente utilizados.
